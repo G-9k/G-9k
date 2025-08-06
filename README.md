@@ -1,7 +1,6 @@
 ## Hi there 👋
 
-I am a Computer Science student at University of Buenos Aires with a growing interest in AI safety and alignment challenges. Recently completed foundational courses in large language models and AI safety fundamentals, while beginning to explore reinforcement learning concepts. Concerned about balancing technological advancement with ethical considerations and human values, particularly regarding AI's impact on creative industries. Seeking to deepen knowledge and contribute to responsible AI development.
-Currently working on a Reinforcement Learning project as part of AISF coursework.
+I am a Computer Science student at the University of Buenos Aires with interests in AI Safety, physics, and science communication. I have completed foundational courses in LLMs and AI Safety, exploring reinforcement learning concepts applied to safety challenges. Beyond technical studies, I am passionate about writing and aim to bridge technical expertise with effective communication, contributing to projects that advance technological progress and public understanding. I am actively seeking opportunities that combine my technical background with my communication skills and creative interests.
 
 <!--
 **G-9k/G-9k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
