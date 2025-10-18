@@ -1,6 +1,11 @@
 ## Hi there 👋
 
-I am a Computer Science student at the University of Buenos Aires with interests in AI Safety, physics, and science communication. I have completed foundational courses in LLMs and AI Safety, exploring reinforcement learning concepts applied to safety challenges. Beyond technical studies, I am passionate about writing and aim to bridge technical expertise with effective communication, contributing to projects that advance technological progress and public understanding. I am actively seeking opportunities that combine my technical background with my communication skills and creative interests.
+I am a Computer Science student at the University of Buenos Aires with interests in AI Safety, physics, and science communication. I
+have completed foundational courses in LLMs and AI Safety, and participated in the ML4Good Bootcamp Brasil 2025 and Kairos
+Pathfinder Fellowship. Currently serving as a facilitator at BAISH (Buenos Aires AI Safety Hub), I work to bridge technical
+concepts with accessible communication. Beyond technical studies, I am passionate about writing and aim to contribute to
+projects that advance both technological progress and public understanding. I am actively seeking opportunities that combine
+my technical background with my communication and creative interests.
 
 <!--
 **G-9k/G-9k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
